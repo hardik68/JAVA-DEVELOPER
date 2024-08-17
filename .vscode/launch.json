@@ -1,0 +1,71 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ConditionalStatements",
+            "request": "launch",
+            "mainClass": "ConditionalStatements",
+            "projectName": "Courses_c11aa465"
+        },
+        {
+            "type": "java",
+            "name": "ConditionalStatements2",
+            "request": "launch",
+            "mainClass": "ConditionalStatements2",
+            "projectName": "Courses_c11aa465"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "SwitchCase",
+            "projectName": "Courses_c11aa465"
+        },
+        {
+            "type": "java",
+            "name": "add",
+            "request": "launch",
+            "mainClass": "add",
+            "projectName": "Courses_c11aa465"
+        },
+        {
+            "type": "java",
+            "name": "logicalOprators",
+            "request": "launch",
+            "mainClass": "logicalOprators",
+            "projectName": "Courses_c11aa465"
+        },
+        {
+            "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "Courses_c11aa465"
+        },
+        {
+            "type": "java",
+            "name": "ternary",
+            "request": "launch",
+            "mainClass": "ternary",
+            "projectName": "Courses_c11aa465"
+        }
+    ]
+}
