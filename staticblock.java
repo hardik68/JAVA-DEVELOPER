@@ -12,7 +12,7 @@ class Mobile{
 
     public void show(){
         System.out.println(brand + ":" + price + ": " + name);
-    }
+    } // did some changes 
    // this is used
 }
 public class staticblock{
