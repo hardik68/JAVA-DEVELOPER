@@ -1,4 +1,4 @@
-class Student {
+class Student{
     // they are instant variables because they belong to a class not to a method 
     int rollNo;
     String name;
